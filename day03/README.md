@@ -4,7 +4,7 @@
 
 View Demo here -> [Demo](link)
 
-![](images/day-03.png)
+![](../images/day-03.png)
 
 ## How to use
  - select a range to change the image 

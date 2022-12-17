@@ -4,7 +4,7 @@
 
 View Demo here -> [Drum Kit Presentation](link)
 
-![](images/day-01.png)
+![](../images/day-01.png)
 
 ## How to use
  - click the displayed keys to play the sounds

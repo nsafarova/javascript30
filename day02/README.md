@@ -4,7 +4,7 @@
 
 View Demo here -> [Clock Presentation](link)
 
-![](images/day-02.png)
+![](../images/day-02.png)
 
 ## Learning notes
 

@@ -4,7 +4,7 @@
 
 View Demo here -> [ Presentation](link)
 
-![](images/day-04.png)
+![](../images/day-04.png)
 
 ## How to use
  - 
