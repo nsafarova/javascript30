@@ -13,15 +13,14 @@ View Demo here -> [Flex Panels Image Gallery](link)
 
  - CSS3 `flexbox` layout and nested flexbox
  - `Event handling` used to handle `click` and `transitionend` events
- - use `toggle()` to add or remove a CSS class to the selected element
+ - used `toggle()` to add or remove a CSS class to the selected element
 
 ### includes()
 
 > Safari transitionend event.propertyName === flex */
->
 > Chrome + FF transitionend event.propertyName === flex-grow */
 
-`includes()` is used to check for the word "flex" in the `propertyName` property of the `transitionend` event object to ensure cross-browser compatibility.
+`includes()` is used to check for the word "flex" in the `propertyName` property of the `transitionend` event object to ensure cross-browser compatibility:
 
 ```
 if (e.propertyName.includes('flex')) {
